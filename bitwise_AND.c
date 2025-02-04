@@ -1,8 +1,8 @@
-// Program 2.4 in Programming in C 4th Edition
+// Programming in C 4th Edition - Chapter 11
 // by Stephen G. Lochan
 // bitwise AND "&" operator
 // Lori Pfahler
-// January 2024
+// January 2025
 
 #include <stdio.h>
 
